@@ -67,6 +67,6 @@ A documentação completa do projeto está disponível nos seguintes arquivos:
 
 ## Autores
 
-José Fernando Cunha da Silva
-Gustavo Moreira Schneider
+José Fernando Cunha da Silva | 
+Gustavo Moreira Schneider | 
 Data: 18/03/2025 
